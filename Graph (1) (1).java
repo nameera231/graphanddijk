@@ -12,9 +12,7 @@ import java.util.*;
  * in the assignment. In the same run, the program also finds and prints into a file the shortest paths
  * from vertex 0 to all other vertices
  * 
- * Included within the submission are three other files created by author Mark Allen Weiss
- * required to run Graph.java.
- * More information is included within the writeup.txt file
+ * 
  */
 // Used to signal violations of preconditions for
 // various shortest path algorithms.
